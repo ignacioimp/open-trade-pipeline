@@ -2,6 +2,10 @@
 
 Local Python prototype for managing a trade-service engagement from initial inquiry to commercial handoff and then through execution milestones. It preserves the principle that pipeline stage says where the case is, and tasks say what to do next. Cost estimation starts only after the operator confirms payment.
 
+## Browser demo
+
+A standalone visual version inspired by the original commercial and execution boards is available in [web-demo](web-demo/README.md). Open `web-demo/index.html` locally to explore the two boards with synthetic data. The Python CLI and browser demo use independent state formats.
+
 ## Quick start
 
 Python 3.10+, no dependencies or accounts. Run from repository root:
